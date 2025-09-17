@@ -1,3 +1,7 @@
+// Exceeding Requirements: I improved the Journal.SaveToFile and Journal.LoadFromFile functions
+//                         to generate valid CSV files, which can be correctly saved and loaded,
+//                         but also viewed and edited in spreadsheet software.
+
 using System;
 using System.Xml.Serialization;
 
